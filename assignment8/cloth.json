@@ -1,0 +1,38 @@
+{
+	"top1":{
+		"brandname": "A.K.O.O Clothing",
+		"price":"200",
+		"pic":"pic/top1.jpg"},
+	"top2":{
+		"brandname": "B.K.T Clothing",
+		"price":"500",
+		"pic":"pic/top2.jpg"},
+	"top3":{
+		"brandname": "B.N.K Clothing",
+		"price":"500",
+		"pic":"pic/top3.jpg"},
+	"top4":{
+		"brandname": "K.E.S Clothing",
+		"price":"500",
+		"pic":"pic/top4.jpg"},
+	"top5":{
+		"brandname": "Y.E.S Clothing",
+		"price":"500",
+		"pic":"pic/top5.jpg"},
+	"top6":{
+		"brandname": "S.U.S Clothing",
+		"price":"500",
+		"pic":"pic/top6.jpg"},		
+	"top7":{
+		"brandname": "Y.U.K Clothing",
+		"price":"500",
+		"pic":"pic/top7.jpg"},	
+	"top8":{
+		"brandname": "K.1.T Clothing",
+		"price":"1",
+		"pic":"pic/top8.jpg"},	
+	"top9":{
+		"brandname": "O.H.M Clothing",
+		"price":"50000",
+		"pic":"pic/top9.jpg"}
+}	
